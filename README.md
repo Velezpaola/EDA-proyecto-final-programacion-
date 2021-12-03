@@ -2,7 +2,9 @@
 Proyecto final para la clase de Programacion en la Maestria en Ciencia de Datos de la Universidad de Sonora
 
 ## Analisis Exploratorio de Datos (Crimenes de odio en EUA)
-Ana Paola Vélez Esquer
+#### Ana Paola Vélez Esquer
+
+El analisis exploratorio de datos (EDA), se utiliza como un primer paso para el entendimiento de los datos y sus propiedades, lo que permite familiarizarse y comprender la infromacion antes de manipularla. Para este ejercicio se utilizan datos sobre caracteristicas sociales y crimenes de odio en los estados de EUA.
 
 ### Requerimientos para realizar el ejercicio
 Para este ejercicio de creara un documento en Jupiter notebook para tabajar con Python, para esto es recomendable (mas no necesario) trabajar desde el ambiente de Anaconda ya que está disponible para ambientes Windows, macOS y Linux.
