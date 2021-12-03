@@ -10,6 +10,7 @@ Para este ejercicio de creara un documento en Jupiter notebook para tabajar con 
 __[Aprende a instalar anaconda]https://www.aprendemachinelearning.com/instalar-ambiente-de-desarrollo-python-anaconda-para-aprendizaje-automatico/__
 
 Ya que se cuenta con Anaconda lo primero es acceder a jupyter notebooks a travez de esta, seleccionando el boton "Launch" como se muestra a continuación.
+
 ![image](https://user-images.githubusercontent.com/82691330/144663637-662bc516-0e66-46b9-ba28-c97d790bb908.png)
 
 Una vez accediendo se crea un archivo nuevo seleccionando en la esquina superior derecha la opcion "New" y posteriormente escogiendo abrir una notebook de python, como se muestra en la imagen.
